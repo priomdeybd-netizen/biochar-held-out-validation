@@ -1,0 +1,9 @@
+target,protocol,Mean,Ridge,RandomForest,ExtraTrees,HistGB,best_learned
+Capacity,adsorbent,57.507,56.591,43.66,43.383,38.575,HistGB
+Capacity,pair,54.869,35.21,24.468,24.594,30.173,RandomForest
+Capacity,pollutant,55.067,38.853,21.246,21.303,21.421,RandomForest
+Capacity,replicate,53.634,20.375,7.203,7.078,12.194,ExtraTrees
+removal_pct,adsorbent,30.371,15.003,20.026,24.182,23.596,Ridge
+removal_pct,pair,29.165,16.89,15.82,15.601,18.474,ExtraTrees
+removal_pct,pollutant,28.994,15.979,13.373,13.132,14.228,ExtraTrees
+removal_pct,replicate,28.462,11.182,4.424,4.472,7.949,RandomForest

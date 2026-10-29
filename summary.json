@@ -1,0 +1,80 @@
+{
+ "data_url": "https://raw.githubusercontent.com/ZeeshanHJ/Adsorption-capacity-prediction-for-ECs/25d8188af64b2086e2285d4e8cfef17e621c684a/Raw_data.csv",
+ "n_rows": 3757,
+ "adsorbents": 15,
+ "pollutants": 14,
+ "pairs": 39,
+ "features_numeric": [
+  "Pyrolysis temperature",
+  "Pyrolysis time",
+  "C",
+  "H",
+  "O",
+  "N",
+  "(O+N)/C",
+  "Ash",
+  "H/C",
+  "O/C",
+  "N/C",
+  "Surface area",
+  "Pore volume",
+  "Average pore size",
+  "Adsorption time",
+  "Initial concentration",
+  "Solution pH",
+  "RPM",
+  "Volume",
+  "Adsorbent dosage",
+  "Adsorption temperature",
+  "Ion concentration",
+  "Humic acid"
+ ],
+ "features_categorical": [
+  "Pollutant",
+  "Wastewater type",
+  "Adsorption type"
+ ],
+ "negative_capacity_rows": 27,
+ "removal_excluded_rows": 27,
+ "diagnostics": {
+  "rows": 3730,
+  "rows_with_identical_input_elsewhere": 0.9126005361930295,
+  "median_rows_per_input_vector": 3.0,
+  "max_rows_per_input_vector": 15,
+  "adsorbents": 15,
+  "pollutants": 14,
+  "pairs": 39,
+  "random_cv_test_rows_with_exact_input_twin_in_training": 0.8833780160857909,
+  "capacity_equals_dC_over_dose_share": 0.9837837837837838,
+  "distinct_input_vectors": 1352,
+  "replicate_label_MAD_mg_per_g": 3.483360809361197
+ },
+ "learning_curve_k": [
+  2,
+  4,
+  6,
+  8,
+  10,
+  14
+ ],
+ "replication_url": "https://raw.githubusercontent.com/ZeeshanHJ/Transformer_models_prediction/086671f34cafb0d7d88a473a4eda05be32376890/HMI_data.xlsx",
+ "replication_diagnostics": {
+  "rows": 1518,
+  "adsorbents": 16,
+  "metals": 7,
+  "pairs": 25,
+  "rows_with_identical_input_elsewhere": 0.8656126482213439,
+  "feedstock_rows": {
+   "Spent coffee": 1261,
+   "Peanut shell": 141,
+   "Banana peel": 116
+  },
+  "negative_qe_rows": 0,
+  "removal_outside_0_100_rows": 1
+ },
+ "sklearn": "1.6.1",
+ "seed": 42,
+ "bootstrap_resamples": 2000,
+ "random_cv_repeats": 3,
+ "minutes": 21.2
+}

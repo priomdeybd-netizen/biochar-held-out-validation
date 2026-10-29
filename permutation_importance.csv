@@ -1,0 +1,53 @@
+target,feature,importance
+Capacity,Pyrolysis temperature,0.0
+Capacity,Pyrolysis time,0.0
+Capacity,C,0.0
+Capacity,H,0.0
+Capacity,O,0.0
+Capacity,N,-3.7244922299777434e-06
+Capacity,(O+N)/C,1.5054431508743233e-07
+Capacity,Ash,0.0
+Capacity,H/C,0.0
+Capacity,O/C,0.0
+Capacity,N/C,-2.5269536853655855e-06
+Capacity,Surface area,0.0
+Capacity,Pore volume,0.0
+Capacity,Average pore size,0.0
+Capacity,Adsorption time,0.01333172401880449
+Capacity,Initial concentration,0.15541315207600376
+Capacity,Solution pH,0.00026679596815246424
+Capacity,RPM,0.0
+Capacity,Volume,0.0
+Capacity,Adsorbent dosage,8.634658460197295e-06
+Capacity,Adsorption temperature,0.00020039717766860446
+Capacity,Ion concentration,0.004004872125284876
+Capacity,Humic acid,-0.00028367036038048064
+Capacity,Pollutant,0.0009717695644346774
+Capacity,Wastewater type,3.3863721783977726e-06
+Capacity,Adsorption type,-0.00034882089534137733
+removal_pct,Pyrolysis temperature,-1.6115039640854965e-16
+removal_pct,Pyrolysis time,-1.6115039640854965e-16
+removal_pct,C,-1.6115039640854965e-16
+removal_pct,H,-1.6115039640854965e-16
+removal_pct,O,-1.6115039640854965e-16
+removal_pct,N,-9.144924669522973e-05
+removal_pct,(O+N)/C,1.3232737879035844e-07
+removal_pct,Ash,-1.6115039640854965e-16
+removal_pct,H/C,-1.6115039640854965e-16
+removal_pct,O/C,-1.6115039640854965e-16
+removal_pct,N/C,-8.053538308056956e-05
+removal_pct,Surface area,-1.6115039640854965e-16
+removal_pct,Pore volume,-1.6115039640854965e-16
+removal_pct,Average pore size,-1.6115039640854965e-16
+removal_pct,Adsorption time,0.030085853413994237
+removal_pct,Initial concentration,0.013344233006634952
+removal_pct,Solution pH,0.001509246568498177
+removal_pct,RPM,-1.6115039640854965e-16
+removal_pct,Volume,-1.6115039640854965e-16
+removal_pct,Adsorbent dosage,0.005615054530187325
+removal_pct,Adsorption temperature,0.00025002536698257044
+removal_pct,Ion concentration,0.012469862684856572
+removal_pct,Humic acid,-0.0007592335289282616
+removal_pct,Pollutant,0.011210267966427587
+removal_pct,Wastewater type,0.0005460486909442669
+removal_pct,Adsorption type,-3.08901888666272e-05

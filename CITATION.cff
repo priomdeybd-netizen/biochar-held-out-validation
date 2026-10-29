@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite them as below."
+title: "Held-out validation of machine-learning models for biochar adsorption on two public data sets: code and results"
+type: software
+authors:
+  - family-names: Dey
+    given-names: Priom
+    orcid: "https://orcid.org/0009-0007-5722-8240"
+    affiliation: "Department of Chemistry, Shahjalal University of Science and Technology, Sylhet, Bangladesh"
+  - family-names: Talukder
+    given-names: Avro
+    orcid: "https://orcid.org/0009-0007-6996-7673"
+    affiliation: "Department of Chemistry, Shahjalal University of Science and Technology, Sylhet, Bangladesh"
+  - family-names: Roy
+    given-names: Yuvraj
+    affiliation: "Department of Chemistry, Shahjalal University of Science and Technology, Sylhet, Bangladesh"
+license: MIT
+version: 1.0.0
+date-released: 2026-10-30
+keywords:
+  - biochar
+  - adsorption
+  - machine learning
+  - validation
+  - data leakage

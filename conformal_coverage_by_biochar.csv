@@ -1,0 +1,61 @@
+target,nominal,biochar,coverage
+Capacity,0.8,AMCB,1.0
+Capacity,0.8,Alkali-modified SCG biochars,1.0
+Capacity,0.8,C-Biochar,0.8113207547169812
+Capacity,0.8,CB,1.0
+Capacity,0.8,GCRB,1.0
+Capacity,0.8,GCRB-N,0.7466666666666667
+Capacity,0.8,MCB,1.0
+Capacity,0.8,NaOH-activated SCW biochars,0.30864197530864196
+Capacity,0.8,PAC,0.9629629629629629
+Capacity,0.8,PB600,1.0
+Capacity,0.8,PB800,1.0
+Capacity,0.8,PSB,0.9206349206349206
+Capacity,0.8,PSBOX-A,0.011494252873563218
+Capacity,0.8,Pristine SCG biochar,1.0
+Capacity,0.8,Pristine SCW Biochar,1.0
+Capacity,0.9,AMCB,1.0
+Capacity,0.9,Alkali-modified SCG biochars,1.0
+Capacity,0.9,C-Biochar,0.8553459119496856
+Capacity,0.9,CB,1.0
+Capacity,0.9,GCRB,1.0
+Capacity,0.9,GCRB-N,0.9644444444444444
+Capacity,0.9,MCB,1.0
+Capacity,0.9,NaOH-activated SCW biochars,0.36419753086419754
+Capacity,0.9,PAC,0.9753086419753086
+Capacity,0.9,PB600,1.0
+Capacity,0.9,PB800,1.0
+Capacity,0.9,PSB,1.0
+Capacity,0.9,PSBOX-A,0.15708812260536398
+Capacity,0.9,Pristine SCG biochar,1.0
+Capacity,0.9,Pristine SCW Biochar,1.0
+removal_pct,0.8,AMCB,0.6369047619047619
+removal_pct,0.8,Alkali-modified SCG biochars,0.6447368421052632
+removal_pct,0.8,C-Biochar,0.9937106918238994
+removal_pct,0.8,CB,1.0
+removal_pct,0.8,GCRB,1.0
+removal_pct,0.8,GCRB-N,0.7955555555555556
+removal_pct,0.8,MCB,0.03571428571428571
+removal_pct,0.8,NaOH-activated SCW biochars,0.7057613168724279
+removal_pct,0.8,PAC,0.9320987654320988
+removal_pct,0.8,PB600,0.8301886792452831
+removal_pct,0.8,PB800,0.9938271604938271
+removal_pct,0.8,PSB,1.0
+removal_pct,0.8,PSBOX-A,0.13409961685823754
+removal_pct,0.8,Pristine SCG biochar,1.0
+removal_pct,0.8,Pristine SCW Biochar,1.0
+removal_pct,0.9,AMCB,0.8035714285714286
+removal_pct,0.9,Alkali-modified SCG biochars,0.9973684210526316
+removal_pct,0.9,C-Biochar,1.0
+removal_pct,0.9,CB,1.0
+removal_pct,0.9,GCRB,1.0
+removal_pct,0.9,GCRB-N,0.9866666666666667
+removal_pct,0.9,MCB,0.16666666666666666
+removal_pct,0.9,NaOH-activated SCW biochars,0.9794238683127572
+removal_pct,0.9,PAC,1.0
+removal_pct,0.9,PB600,0.9685534591194969
+removal_pct,0.9,PB800,1.0
+removal_pct,0.9,PSB,1.0
+removal_pct,0.9,PSBOX-A,0.23371647509578544
+removal_pct,0.9,Pristine SCG biochar,1.0
+removal_pct,0.9,Pristine SCW Biochar,1.0
